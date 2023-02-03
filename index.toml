@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "94609bc33550bb64bdb280d53156767318407a4a62d2273b6f9d0a0f40396e9a"
+hash = "de79e8615a4d06d01b575fa4ef255fe92e20a308c94769cb3d20612c79c69a9a"
 metafile = true
 
 [[files]]
@@ -210,11 +210,6 @@ hash = "a22fc676adfc77b195a0798c9974d36de550cdc5e31f343a233c25a9847f82fa"
 metafile = true
 
 [[files]]
-file = "mods/selene.pw.toml"
-hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
-metafile = true
-
-[[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "b5e478bee6fd909d03453c2bdac37211e65d983a92a383ae4cb8975a9e493ad9"
 metafile = true
@@ -266,17 +261,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "b6717974145774238e8562a4e56eafdae7320b73fb9a460fc01b2ee13f020e54"
+hash = "925b4f2fcfbb6811ca9474aacbae984365d5b98bfb7fc3b4d315f7c7b649c2b4"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f5c0bcad68980fd9023b7b0ca7d465fe7916b79fff3fd1f8621faa7d0197fd45"
+hash = "dfe68776d91ab5eecef3fff880986c9e648715435340f14a88033b2842b2f59c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "bc2d548936901d39d362408eea7dbf68bf585bbe5d12958b15d56a006f7aac7b"
+hash = "46066ba09d5e6476a37cb6a47a4107d7007f2bf4051267932abd2a1860dfe382"
 metafile = true
 
 [[files]]

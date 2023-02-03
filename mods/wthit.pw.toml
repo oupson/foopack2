@@ -1,6 +1,6 @@
 name = "WTHIT"
 filename = "wthit-forge-4.13.6.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/YW7oSsAg/wthit-forge-4.13.6.jar"
