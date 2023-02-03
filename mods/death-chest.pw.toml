@@ -1,0 +1,13 @@
+name = "Death Chest"
+filename = "Death-Chest-1.18.2-1.6.2a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M9cM4rpz/versions/Bn0q3eAe/Death-Chest-1.18.2-1.6.2a.jar"
+hash-format = "sha1"
+hash = "55f900265800eb5282da9ea91a8739c878e720d8"
+
+[update]
+[update.modrinth]
+mod-id = "M9cM4rpz"
+version = "Bn0q3eAe"

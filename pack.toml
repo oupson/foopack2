@@ -1,0 +1,13 @@
+name = "FooPack"
+author = "oupson"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8f565433e19314484b6656c21a05784fd14c8cc9926833005e4845e198ec2a41"
+
+[versions]
+forge = "40.2.0"
+minecraft = "1.18.2"
