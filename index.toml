@@ -54,7 +54,7 @@ hash = "a476e523d1c48b280b61f8dc1415853b3680081ce4b7e29b0d8893018d428691"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
-hash = "b8a3849b500e6c362c91dce9853e5999a571a97b77d28a169e1d72919819c859"
+hash = "a252afef7cf81387f05d342cd3c6e9a11d6f71f0139e1cae5cb64b7e63b69d3a"
 metafile = true
 
 [[files]]
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "08adacf91a513ca04d5e2b7dca2117dbb85a0ecb15931c0d92aed12eaa910e3a"
+hash = "130a63c55f46b5f1f0e72ce3433e2d095e7ed8b4f696a11db0d3506f6696130e"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "07e80c58bc397dc002d48f68e1ea855c66c8b8fecec170d4be6b6802d8ca8afc"
+hash = "38587f6ffaa35d13947bae7b4f126376593e665fa849dc5532ce6bfef78bd4be"
 metafile = true
 
 [[files]]
@@ -124,12 +124,12 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
-hash = "c9af2bc1ea4a7d690090117c5f99a5548fa93af953176cde50fd7060ecce4ccb"
+hash = "efb2b18afc075067fac6b2c9d66def70345098c76b165555971412262f80756d"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "0e2add1ba93b30084273b2a0d253cf51057199410297234516b673680c90bf0c"
+hash = "e5fdf73b00092f2c84c52bab611ce912e0c29c9fde0c6fb00007ac3b05807d76"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "9b4c7fa0d8bbaa4553f088b5ecea0b114d3aa77d148002100aa940881742df82"
+hash = "fbb0a9e7d2930e91c49c7ea9ac56aacd4475169c0b50b463245c2a2b2eb24c11"
 metafile = true
 
 [[files]]
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "17da5fcd6a347eb79a6997c84ccc8c5d8f513c0a21a790d742ba0b8acf262f07"
+hash = "38878fdf9223aa83c3f5ada484b330b46ebea5e629f91fbff080e225ad25bb3d"
 metafile = true
 
 [[files]]
@@ -249,12 +249,12 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
-hash = "1272204186ecb82cfa80103838be087a884e82b4100353f7eea55f6ac645e4e5"
+hash = "4c06387c770bd038697ddff54caa6a91f77d161aff7b064d64b0f3c45ade34e5"
 metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "b96e1f36a707b7b51a9e042912f3171cde6ba7be170255ef84fb50b9824406f0"
+hash = "b1ba29bdea11cb2e7821b7846cbfd2b38bbae275c1869ed6d88adb694a2c64ed"
 metafile = true
 
 [[files]]
@@ -274,12 +274,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "b302a780b3f0e29a1b240190d085ce84586b57810891a98c8130d9f7fecbbf4e"
+hash = "b9c87c2cf45fa954f7088102073aa4df5056cdf3f471fd9d6de8cbd26682e4d9"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3b7c80eb801853506e29c0b8b8e5c1607fabcf9ccecb5e472b8f2aae4f7c60f6"
+hash = "42202c85bcdb4325ced3e7a56d3835cbc0741a0a33950887b9ab51c519f3de20"
 metafile = true
 
 [[files]]
