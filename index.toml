@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-expansion.pw.toml"
-hash = "1cd1bbf3bb44a31cfb1e9de32bf25443599d8f74ccb005fac89f76a780de8e54"
+hash = "8408b6c755461e6c314a315cb09104929ea00116ea30ee2bb91e848da8e4a735"
 metafile = true
 
 [[files]]
